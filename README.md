@@ -1,5 +1,5 @@
 # The Gold IDE
-### The Gold IDE is a lightweight IDE for [i-use-arch-btw programming language](https://github.com/overmighty/i-use-arch-btw) made on Java.
+### The Gold IDE is a lightweight IDE for [i-use-arch-btw programming language](https://github.com/overmighty/i-use-arch-btw) made in Java.
 
 You can build the IDE from sources(Intelij recommened), i-use-arch-btw is required for running.
 
